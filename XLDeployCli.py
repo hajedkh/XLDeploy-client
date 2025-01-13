@@ -368,7 +368,7 @@ class XLDeployClient:
 
 
 
-#cli = XLDeployClient("https://xldeploy.lia.int:4516", "hkhlifi", "Lombard2024/")
+
 
 #prod_env = "Environments/Production"
 #stg_env = "Environments/STG"
